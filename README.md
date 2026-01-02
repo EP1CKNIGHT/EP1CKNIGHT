@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <img src="e285661a023fb83c8d7f975980422c22.gif" width="100%" />
+</div>
 
-<!--
-**EP1CKNIGHT/EP1CKNIGHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Waseem Alkhatib</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+    Beginner C++ learner
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am learning C++ and developing my understanding of problem-solving using it.<br>
+  I have a general knowledge of computers.
+</p>
+
+---
+
+## About Me
+- Currently learning C++
+- Interested in C++ language and problem solving
+- Languages: Arabic & English
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.instagram.com/_epicknight/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Always improving
+</p>
